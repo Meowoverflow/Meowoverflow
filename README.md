@@ -4,7 +4,7 @@
 </a>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meowoverflow&&hide=cmake&langs_count=6&line_height=35&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meowoverflow&langs_count=6&line_height=35&theme=dark" />
 </a>
 <!--
 **Meowoverflow/Meowoverflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
