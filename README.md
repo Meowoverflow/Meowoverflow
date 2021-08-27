@@ -1,5 +1,11 @@
 ### Hi there 👋
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Meowoverflow&show_icons=true&line_height=33&count_private=true&theme=dark" alt="MEowoverflow's GitHub Stats" />
+</a>
 
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meowoverflow&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+</a>
 <!--
 **Meowoverflow/Meowoverflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
